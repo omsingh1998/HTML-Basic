@@ -1,0 +1,12 @@
+body {
+  font-family: serif;
+  font-size: medium;
+  color: black;
+  background-color: white;
+}
+.head {
+  border: yellowgreen solid;
+}
+.footer {
+  border: solid yellow;
+}
